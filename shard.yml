@@ -1,0 +1,13 @@
+name: bf-to-ooms
+version: 0.1.0
+
+authors:
+  - Siph <net@siphonay.fr>
+
+targets:
+  bf-to-ooms:
+    main: src/bf-to-ooms.cr
+
+crystal: '>= 1.10.1'
+
+license: Unlicense
